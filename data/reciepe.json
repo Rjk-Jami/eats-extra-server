@@ -1,0 +1,52 @@
+[
+    {
+    "id": 1,
+    "name": "Jamie Oliver",
+    "photo_url": "https://www.example.com/gordon-ramsay.jpg",
+    "years_of_experience": 25,
+    "num_recipes": 157,
+    "likes": 711323
+  },
+    {
+    "id": 2,
+    "name": "Nigella Lawson",
+    "photo_url": "https://www.example.com/gordon-ramsay.jpg",
+    "years_of_experience": 30,
+    "num_recipes": 142,
+    "likes": 622449
+  },
+    {
+    "id": 3,
+    "name": "Gordon Ramsay",
+    "photo_url": "https://www.example.com/gordon-ramsay.jpg",
+    "years_of_experience": 35,
+    "num_recipes": 173,
+    "likes": 518636
+  },
+    {
+    "id": 4,
+    "name": "Heston Blumenthal",
+    "photo_url": "https://www.example.com/gordon-ramsay.jpg",
+    "years_of_experience": 35,
+    "num_recipes": 184,
+    "likes": 755200
+  },
+    {
+    "id": 5,
+    "name": "Mary Berry",
+    "photo_url": "https://www.example.com/gordon-ramsay.jpg",
+    "years_of_experience": 50,
+    "num_recipes": 199,
+    "likes": 572894
+  },
+    {
+    "id": 6,
+    "name": "Tom Kerridge",
+    "photo_url": "https://www.example.com/gordon-ramsay.jpg",
+    "years_of_experience": 25,
+    "num_recipes": 136,
+    "likes": 693721
+  },
+  
+  
+]
