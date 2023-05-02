@@ -5,7 +5,8 @@
     "photo_url": "https://www.example.com/gordon-ramsay.jpg",
     "years_of_experience": 25,
     "num_recipes": 157,
-    "likes": 711323
+    "likes": 711323,
+    "awarded": false
   },
     {
     "id": 2,
@@ -13,7 +14,8 @@
     "photo_url": "https://www.example.com/gordon-ramsay.jpg",
     "years_of_experience": 30,
     "num_recipes": 142,
-    "likes": 622449
+    "likes": 622449,
+    "awarded": false
   },
     {
     "id": 3,
@@ -21,7 +23,8 @@
     "photo_url": "https://www.example.com/gordon-ramsay.jpg",
     "years_of_experience": 35,
     "num_recipes": 173,
-    "likes": 518636
+    "likes": 518636,
+    "awarded": true
   },
     {
     "id": 4,
@@ -29,7 +32,8 @@
     "photo_url": "https://www.example.com/gordon-ramsay.jpg",
     "years_of_experience": 35,
     "num_recipes": 184,
-    "likes": 755200
+    "likes": 755200,
+    "awarded": false
   },
     {
     "id": 5,
@@ -37,7 +41,8 @@
     "photo_url": "https://www.example.com/gordon-ramsay.jpg",
     "years_of_experience": 50,
     "num_recipes": 199,
-    "likes": 572894
+    "likes": 572894,
+    "awarded": true
   },
     {
     "id": 6,
@@ -45,7 +50,8 @@
     "photo_url": "https://www.example.com/gordon-ramsay.jpg",
     "years_of_experience": 25,
     "num_recipes": 136,
-    "likes": 693721
+    "likes": 693721,
+    "awarded": false
   }
   
 ]
