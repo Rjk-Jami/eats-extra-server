@@ -2,56 +2,68 @@
     {
     "id": 1,
     "name": "Jamie Oliver",
-    "photo_url": "https://www.example.com/gordon-ramsay.jpg",
+    "photo_url": "https://i.ibb.co/Rv64bwj/Jamie-Oliver.jpg",
     "years_of_experience": 25,
     "num_recipes": 157,
     "likes": 711323,
-    "awarded": false
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "awarded": false,
+    "lifeStory": " Jamie Oliver started working in a restaurant kitchen at the age of 16 and gained experience working at several restaurants in London before opening his own restaurant, The River Cafe, at the age of 23. He has over 25 years of experience in the industry."
   },
     {
     "id": 2,
     "name": "Nigella Lawson",
-    "photo_url": "https://www.example.com/gordon-ramsay.jpg",
+    "photo_url": "https://i.ibb.co/BPMr0r6/Nigella-Lawson.jpg",
     "years_of_experience": 30,
     "num_recipes": 142,
     "likes": 622449,
-    "awarded": false
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "awarded": false,
+    "lifeStory": "Nigella Lawson started her career as a food writer and journalist in the 1980s. She published her first cookbook, 'How To Eat,' in 1998 and has since authored several more. She has over 30 years of experience in the industry."
   },
     {
     "id": 3,
     "name": "Gordon Ramsay",
-    "photo_url": "https://www.example.com/gordon-ramsay.jpg",
+    "photo_url": "https://i.ibb.co/HgZ5r06/Gordon-Ramsay.jpg",
     "years_of_experience": 35,
     "num_recipes": 173,
     "likes": 518636,
-    "awarded": true
+    "rating": { "number": 5, "badge": "Excellent" },
+    "awarded": true,
+    "lifeStory":"Gordon Ramsay began his culinary career as a commis chef at the Wroxton House Hotel. He has worked at several Michelin-starred restaurants in London and Paris, and opened his first restaurant, Restaurant Gordon Ramsay, in 1998. He has over 35 years of experience in the industry."
   },
     {
     "id": 4,
     "name": "Heston Blumenthal",
-    "photo_url": "https://www.example.com/gordon-ramsay.jpg",
+    "photo_url": "https://i.ibb.co/N6NPvHW/Heston-Blumenthal.jpg",
     "years_of_experience": 35,
     "num_recipes": 184,
     "likes": 755200,
-    "awarded": false
+    "rating": { "number": 5, "badge": "Excellent" },
+    "awarded": true,
+    "lifeStory": "Heston Blumenthal began his career as a chef in 1982, working at several restaurants in the UK and France. He opened his own restaurant, The Fat Duck, in 1995 and has since become known for his experimental and innovative approach to cooking. He has over 35 years of experience in the industry."
   },
     {
     "id": 5,
     "name": "Mary Berry",
-    "photo_url": "https://www.example.com/gordon-ramsay.jpg",
+    "photo_url": "https://i.ibb.co/23bTvM0/Mary-Berry.jpg",
     "years_of_experience": 50,
     "num_recipes": 199,
     "likes": 572894,
-    "awarded": true
+    "rating": { "number": 5, "badge": "Excellent" },
+    "awarded": true,
+    "lifeStory":"Mary Berry began her career as a recipe tester and cookery editor in the 1960s. She has authored over 75 cookbooks and has appeared on numerous television shows, including The Great British Bake Off. She has over 50 years of experience in the industry."
   },
     {
     "id": 6,
     "name": "Tom Kerridge",
-    "photo_url": "https://www.example.com/gordon-ramsay.jpg",
+    "photo_url": "https://i.ibb.co/f8rbHV2/Tom-Kerridge.png",
     "years_of_experience": 25,
     "num_recipes": 136,
     "likes": 693721,
-    "awarded": false
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "awarded": false,
+    "lifeStory": " Tom Kerridge began his career as a commis chef at Calcot Manor in Gloucestershire. He has worked at several Michelin-starred restaurants in the UK and opened his own restaurant, The Hand & Flowers, in 2005. He has over 25 years of experience in the industry."
   }
   
 ]

@@ -1,0 +1,320 @@
+[
+    {
+        "id": 1,
+        "chef_id": 1,
+        "name": "Chicken in Milk",
+        "rating": 4.8,
+        "ingredients": [
+            "1 whole chicken",
+            "Salt and black pepper",
+            "1 cinnamon stick",
+            "1 handful of fresh sage",
+            "2 cups of milk",
+            "1 lemon",
+            "1/2 head of garlic"
+        ],
+        "cooking_method": "Preheat the oven to 375°F (190°C). Season the chicken generously with salt and pepper. Put a casserole dish over medium heat, add a tablespoon of olive oil and brown the chicken on all sides until golden. Remove the chicken and set it aside. In the same casserole dish, add the cinnamon stick, fresh sage, milk, lemon zest and halved garlic head. Bring the mixture to a boil and then return the chicken to the dish, basting it with the milk mixture. Put the dish in the oven and cook for 1 1/2 hours, basting every 20 minutes, until the chicken is cooked through and the skin is crispy and golden. Remove the chicken from the oven, let it rest for a few minutes, and then carve it into pieces. Spoon the milk sauce over the chicken and serve hot."
+    },
+    {
+        "id": 2,
+        "chef_id": 1,
+        "name": "Pesto Pasta",
+        "rating": 4.7,
+        "ingredients": [
+            "1 lb. spaghetti",
+            "2 cups fresh basil leaves",
+            "1/2 cup pine nuts",
+            "1/2 cup grated Parmesan cheese",
+            "2 garlic cloves, minced",
+            "1/2 cup olive oil",
+            "Salt and pepper, to taste"
+        ],
+        "cooking_method": "Cook the spaghetti according to the package instructions until al dente.While the pasta is cooking, make the pesto sauce. In a food processor or blender, combine the basil leaves, pine nuts, Parmesan cheese, and garlic. Pulse until the ingredients are finely chopped.With the motor running, slowly pour in the olive oil until the mixture is smooth and well combined. Season with salt and pepper to taste. Drain the cooked pasta, reserving about 1 cup of the pasta water. Add the pesto sauce to the pasta and toss to coat, adding pasta water as needed to thin the sauce and help it adhere to the pasta.Serve hot, garnished with additional Parmesan cheese and fresh basil leaves, if desired."
+    },
+    {
+        "id": 3,
+        "chef_id": 1,
+        "name": "30-Minute Shepherd's Pie",
+        "ingredients": [
+            "2 lbs. ground beef",
+            "1 onion, chopped",
+            "1 cup frozen mixed vegetables",
+            "1 can (14 oz.) diced tomatoes, undrained",
+            "1/2 cup beef broth",
+            "2 Tbsp. tomato paste",
+            "2 cloves garlic, minced",
+            "1 tsp. dried thyme leaves",
+            "Salt and pepper to taste",
+            "4 cups mashed potatoes",
+            "1 cup shredded cheddar cheese"
+        ],
+        "cooking_method": "Preheat oven to 375°F (190°C).Brown the ground beef and onion in a large skillet over medium-high heat until beef is no longer pink. Drain excess fat.Add the mixed vegetables, diced tomatoes, beef broth, tomato paste, garlic, thyme, salt, and pepper to the skillet. Stir to combine and bring to a boil.Reduce heat and simmer for 10 minutes.Spread the beef mixture evenly into a 9x13 inch baking dish.Top with the mashed potatoes and spread them evenly over the beef mixture.Sprinkle the shredded cheddar cheese over the top of the mashed potatoes.Bake for 20-25 minutes, or until the cheese is melted and the pie is heated through.Let the pie cool for a few minutes before serving.",
+        "rating": 4.5
+    },
+    {
+        "id": 4,
+        "chef_id": 2,
+        "rating": 4.8,
+        "name": "Chocolate Fudge Cake",
+        "ingredients": [
+            "1 cup unsalted butter, softened",
+            "1 cup granulated sugar",
+            "4 large eggs",
+            "1 teaspoon vanilla extract",
+            "1 1/2 cups all-purpose flour",
+            "1/2 cup unsweetened cocoa powder",
+            "1/2 teaspoon baking powder",
+            "1/2 teaspoon baking soda",
+            "1/2 teaspoon salt",
+            "1 cup buttermilk",
+            "1 1/2 cups semisweet chocolate chips",
+            "1/2 cup heavy cream"
+        ],
+        "cooking_method": "To make a chocolate Fudge cake, start by preheating the oven and greasing a cake pan. Cream together butter and sugar, then add eggs one at a time along with vanilla. In a separate bowl, whisk together flour, cocoa powder, baking powder, baking soda, and salt. Gradually mix the dry ingredients into the butter mixture, alternating with buttermilk, until well combined. Fold in chocolate chips. Pour batter into the prepared pan and bake until a toothpick inserted in the center comes out clean. Make the fudge frosting by heating heavy cream and adding chocolate chips until melted. After the cake cools, spread the frosting over the top and sides."
+    },
+    {
+        "id": 5,
+        "chef_id": 2,
+        "name": "Lemon Drizzle Cake",
+        "rating": 4.8,
+        "ingredients": [
+            "225g unsalted butter, softened",
+            "225g caster sugar",
+            "4 eggs",
+            "225g self-raising flour",
+            "2 lemons, zested",
+            "Juice of 1 1/2 lemons",
+            "85g granulated sugar"
+        ],
+        "cooking_method": "Preheat the oven to 180°C/160°C fan/gas mark 4.Grease a loaf tin and line with baking parchment.In a large mixing bowl, beat the butter and caster sugar together until light and fluffy.Add the eggs, one at a time, mixing well after each addition.Fold in the flour and lemon zest.Spoon the mixture into the prepared tin and smooth the surface.Bake for 45-50 minutes, or until a skewer inserted into the centre of the cake comes out clean.Meanwhile, mix the lemon juice and granulated sugar together in a small bowl.When the cake is cooked, remove it from the oven and leave to cool in the tin for 5 minutes.Using a skewer or fork, prick holes all over the top of the cake and spoon the lemon and sugar mixture over the top, ensuring it is evenly distributed.Leave the cake to cool completely in the tin before removing and slicing to serve."
+    },
+    {
+        "id": 6,
+        "chef_id": 2,
+        "name": "Spaghetti Carbonara",
+        "rating": 4.7,
+        "ingredients": [
+            "1 pound spaghetti",
+            "1/2 pound pancetta or guanciale, diced",
+            "4 large eggs",
+            "1 cup grated Pecorino Romano cheese",
+            "1/2 teaspoon freshly ground black pepper"
+        ],
+        "cooking_method": "Bring a large pot of salted water to a boil. Add the spaghetti and cook for 8-10 minutes, or until al dente.While the spaghetti is cooking, cook the pancetta in a large skillet over medium heat until crispy. Remove the pancetta with a slotted spoon and set aside.In a bowl, whisk together the eggs, Pecorino Romano cheese, and black pepper.When the spaghetti is cooked, reserve 1 cup of the pasta water and drain the rest. Add the spaghetti to the skillet with the pancetta and toss to combine.Remove the skillet from the heat and let it cool for 1-2 minutes. Then, add the egg mixture to the skillet and toss quickly to avoid scrambling the eggs. Add some of the reserved pasta water to create a creamy sauce.Serve immediately, topped with additional Pecorino Romano cheese and black pepper."
+    },
+    {
+        "id": 7,
+        "chef_id": 4,
+        "rating": 4.8,
+        "name": "Triple-Cooked Chips",
+        "ingredients": [
+            "4 large potatoes (Maris Piper or King Edward)",
+            "1.5 liters vegetable oil",
+            "Sea salt"
+        ],
+        "instructions": "Peel the potatoes and cut them into chips (1cm x 1cm x 5cm).Rinse the chips under cold water to remove excess starch and dry them with a clean towel.Preheat the vegetable oil to 130°C in a deep-fat fryer or a large, heavy-bottomed saucepan.Fry the chips in the preheated oil for about 6-8 minutes, until they are cooked but not colored. Remove them from the oil with a slotted spoon and let them cool on a wire rack.Increase the temperature of the oil to 180°C.Fry the chips again for 2-3 minutes, until they are golden brown and crispy. Remove them from the oil with a slotted spoon and let them cool on a wire rack.Increase the temperature of the oil to 190°C.Fry the chips a final time for 1-2 minutes, until they are deep golden and crispy. Remove them from the oil with a slotted spoon and let them cool on a wire rack.Season with sea salt and serve hot."
+    },
+    {
+        "id": 8,
+        "chef_id": 4,
+        "rating": 4.9,
+        "name": "Meat Fruit",
+        "ingredients": [
+            "150g chicken liver parfait",
+            "1 mandarin orange",
+            "1 tsp grated ginger",
+            "1/2 tsp ground cinnamon",
+            "1/2 tsp ground cloves",
+            "1/2 tsp ground nutmeg",
+            "1/2 tsp ground black pepper",
+            "1/4 tsp salt",
+            "1 tbsp brandy",
+            "1 tsp gelatin powder",
+            "1 tsp water",
+            "Edible gold leaf (optional)"
+        ],
+        "instructions": "Zest the mandarin and set aside.Peel the mandarin and remove the pith, making sure to keep the segments intact.Place the chicken liver parfait in a mixing bowl and add the grated ginger, cinnamon, cloves, nutmeg, black pepper, salt, brandy, and mandarin zest. Mix well.Place the gelatin powder in a small bowl and add 1 tsp of water. Mix until the gelatin is dissolved.Add the dissolved gelatin to the chicken liver mixture and mix well.Line a small bowl with plastic wrap and place the mandarin segments inside, covering the entire bottom and sides of the bowl.Fill the bowl with the chicken liver mixture and cover the top with more plastic wrap.Refrigerate for at least 1 hour or until set.Remove the plastic wrap from the top and invert the bowl onto a serving plate.Remove the plastic wrap from the bowl and carefully peel it off the meat fruit.Garnish with edible gold leaf if desired and serve with toast or bread."
+    },
+    {
+        "id": 9,
+        "chef_id": 4,
+        "name": "Shepherd's Pie",
+        "ingredients": [
+            "2 lbs. ground beef",
+            "1 onion, chopped",
+            "1 cup frozen mixed vegetables",
+            "1 can (14 oz.) diced tomatoes, undrained",
+            "1/2 cup beef broth",
+            "2 Tbsp. tomato paste",
+            "2 cloves garlic, minced",
+            "1 tsp. dried thyme leaves",
+            "Salt and pepper to taste",
+            "4 cups mashed potatoes",
+            "1 cup shredded cheddar cheese"
+        ],
+        "cooking_method": "Preheat oven to 375°F (190°C).Brown the ground beef and onion in a large skillet over medium-high heat until beef is no longer pink. Drain excess fat.Add the mixed vegetables, diced tomatoes, beef broth, tomato paste, garlic, thyme, salt, and pepper to the skillet. Stir to combine and bring to a boil.Reduce heat and simmer for 10 minutes.Spread the beef mixture evenly into a 9x13 inch baking dish.Top with the mashed potatoes and spread them evenly over the beef mixture.Sprinkle the shredded cheddar cheese over the top of the mashed potatoes.Bake for 20-25 minutes, or until the cheese is melted and the pie is heated through.Let the pie cool for a few minutes before serving.",
+        "rating": 4.5
+    },
+    {
+        "id": 10,
+        "chef_id": 3,
+        "name": "Chicken in Milk",
+        "rating": 4.8,
+        "ingredients": [
+            "1 whole chicken",
+            "Salt and black pepper",
+            "1 cinnamon stick",
+            "1 handful of fresh sage",
+            "2 cups of milk",
+            "1 lemon",
+            "1/2 head of garlic"
+        ],
+        "cooking_method": "Preheat the oven to 375°F (190°C).Season the chicken generously with salt and pepper.Put a casserole dish over medium heat, add a tablespoon of olive oil and brown the chicken on all sides until golden. Remove the chicken and set it aside.In the same casserole dish, add the cinnamon stick, fresh sage, milk, lemon zest and halved garlic head. Bring the mixture to a boil and then return the chicken to the dish, basting it with the milk mixture.Put the dish in the oven and cook for 1 1/2 hours, basting every 20 minutes, until the chicken is cooked through and the skin is crispy and golden.Remove the chicken from the oven, let it rest for a few minutes, and then carve it into pieces.Spoon the milk sauce over the chicken and serve hot."
+    },
+    {
+        "id": 11,
+        "chef_id": 3,
+        "name": "Pesto Pasta",
+        "rating": 4.7,
+        "ingredients": [
+            "1 lb. spaghetti",
+            "2 cups fresh basil leaves",
+            "1/2 cup pine nuts",
+            "1/2 cup grated Parmesan cheese",
+            "2 garlic cloves, minced",
+            "1/2 cup olive oil",
+            "Salt and pepper, to taste"
+        ],
+        "cooking_method": [
+            "Cook the spaghetti according to the package instructions until al dente.",
+            "While the pasta is cooking, make the pesto sauce. In a food processor or blender, combine the basil leaves, pine nuts, Parmesan cheese, and garlic. Pulse until the ingredients are finely chopped.",
+            "With the motor running, slowly pour in the olive oil until the mixture is smooth and well combined. Season with salt and pepper to taste.",
+            "Drain the cooked pasta, reserving about 1 cup of the pasta water. Add the pesto sauce to the pasta and toss to coat, adding pasta water as needed to thin the sauce and help it adhere to the pasta.",
+            "Serve hot, garnished with additional Parmesan cheese and fresh basil leaves, if desired."
+        ]
+    },
+    {
+        "id": 12,
+        "chef_id": 3,
+        "name": "30-Minute Shepherd's Pie",
+        "ingredients": [
+            "2 lbs. ground beef",
+            "1 onion, chopped",
+            "1 cup frozen mixed vegetables",
+            "1 can (14 oz.) diced tomatoes, undrained",
+            "1/2 cup beef broth",
+            "2 Tbsp. tomato paste",
+            "2 cloves garlic, minced",
+            "1 tsp. dried thyme leaves",
+            "Salt and pepper to taste",
+            "4 cups mashed potatoes",
+            "1 cup shredded cheddar cheese"
+        ],
+        "cooking_method": "Preheat oven to 375°F (190°C).Brown the ground beef and onion in a large skillet over medium-high heat until beef is no longer pink. Drain excess fat.Add the mixed vegetables, diced tomatoes, beef broth, tomato paste, garlic, thyme, salt, and pepper to the skillet. Stir to combine and bring to a boil.Reduce heat and simmer for 10 minutes.Spread the beef mixture evenly into a 9x13 inch baking dish.Top with the mashed potatoes and spread them evenly over the beef mixture.Sprinkle the shredded cheddar cheese over the top of the mashed potatoes.Bake for 20-25 minutes, or until the cheese is melted and the pie is heated through.Let the pie cool for a few minutes before serving.",
+        "rating": 4.5
+    },
+    {
+        "id": 13,
+        "chef_id": 5,
+        "rating": 4.8,
+        "name": "Chocolate Fudge Cake",
+        "ingredients": [
+            "1 cup unsalted butter, softened",
+            "1 cup granulated sugar",
+            "4 large eggs",
+            "1 teaspoon vanilla extract",
+            "1 1/2 cups all-purpose flour",
+            "1/2 cup unsweetened cocoa powder",
+            "1/2 teaspoon baking powder",
+            "1/2 teaspoon baking soda",
+            "1/2 teaspoon salt",
+            "1 cup buttermilk",
+            "1 1/2 cups semisweet chocolate chips",
+            "1/2 cup heavy cream"
+        ],
+        "cooking_method": "Preheat the oven to 350°F (180°C) and grease a 9-inch (23-cm) cake pan. In a large bowl, cream together the butter and sugar until light and fluffy. Add the eggs one at a time, beating well after each addition. Stir in the vanilla. In a separate bowl, whisk together the flour, cocoa powder, baking powder, baking soda, and salt.Gradually mix the dry ingredients into the butter mixture, alternating with the buttermilk, until well combined.Fold in the chocolate chips. Pour the batter into the prepared pan and bake for 30-35 minutes, or until a toothpick inserted in the center comes out clean.While the cake is baking, make the fudge frosting: In a small saucepan, heat the heavy cream until it begins to steam. Remove from heat and stir in the chocolate chips until melted and smooth.When the cake is done, remove it from the oven and let it cool in the pan for 10 minutes. Then, transfer the cake to a wire rack and let it cool completely.Spread the fudge frosting over the top and sides of the cake, and serve."
+    },
+    {
+        "id": 14,
+        "chef_id": 5,
+        "name": "Lemon Drizzle Cake",
+        "rating": 4.8,
+        "ingredients": [
+            "225g unsalted butter, softened",
+            "225g caster sugar",
+            "4 eggs",
+            "225g self-raising flour",
+            "2 lemons, zested",
+            "Juice of 1 1/2 lemons",
+            "85g granulated sugar"
+        ],
+        "cooking_method": "Preheat the oven to 180°C/160°C fan/gas mark 4. Grease a loaf tin and line with baking parchment. In a large mixing bowl, beat the butter and caster sugar together until light and fluffy.Add the eggs, one at a time, mixing well after each addition. Fold in the flour and lemon zest.Spoon the mixture into the prepared tin and smooth the surface.Bake for 45-50 minutes, or until a skewer inserted into the centre of the cake comes out clean. Meanwhile, mix the lemon juice and granulated sugar together in a small bowl. When the cake is cooked, remove it from the oven and leave to cool in the tin for 5 minutes. Using a skewer or fork, prick holes all over the top of the cake and spoon the lemon and sugar mixture over the top, ensuring it is evenly distributed. Leave the cake to cool completely in the tin before removing and slicing to serve."
+    },
+    {
+        "id": 15,
+        "chef_id": 5,
+        "name": "Spaghetti Carbonara",
+        "rating": 4.7,
+        "ingredients": [
+            "1 pound spaghetti",
+            "1/2 pound pancetta or guanciale, diced",
+            "4 large eggs",
+            "1 cup grated Pecorino Romano cheese",
+            "1/2 teaspoon freshly ground black pepper"
+        ],
+        "cooking_method": "Bring a large pot of salted water to a boil. Add the spaghetti and cook for 8-10 minutes, or until al dente. While the spaghetti is cooking, cook the pancetta in a large skillet over medium heat until crispy. Remove the pancetta with a slotted spoon and set aside. In a bowl, whisk together the eggs, Pecorino Romano cheese, and black pepper. When the spaghetti is cooked, reserve 1 cup of the pasta water and drain the rest. Add the spaghetti to the skillet with the pancetta and toss to combine. Remove the skillet from the heat and let it cool for 1-2 minutes. Then, add the egg mixture to the skillet and toss quickly to avoid scrambling the eggs. Add some of the reserved pasta water to create a creamy sauce. Serve immediately, topped with additional Pecorino Romano cheese and black pepper."
+    },
+    {
+        "id": 16,
+        "chef_id": 6,
+        "rating": 4.8,
+        "name": "Triple-Cooked Chips",
+        "ingredients": [
+            "4 large potatoes (Maris Piper or King Edward)",
+            "1.5 liters vegetable oil",
+            "Sea salt"
+        ],
+        "instructions": "Peel the potatoes and cut them into chips (1cm x 1cm x 5cm). Rinse the chips under cold water to remove excess starch and dry them with a clean towel. Preheat the vegetable oil to 130°C in a deep-fat fryer or a large, heavy-bottomed saucepan. Fry the chips in the preheated oil for about 6-8 minutes, until they are cooked but not colored. Remove them from the oil with a slotted spoon and let them cool on a wire rack. Increase the temperature of the oil to 180°C. Fry the chips again for 2-3 minutes, until they are golden brown and crispy. Remove them from the oil with a slotted spoon and let them cool on a wire rack. Increase the temperature of the oil to 190°C. Fry the chips a final time for 1-2 minutes, until they are deep golden and crispy. Remove them from the oil with a slotted spoon and let them cool on a wire rack. Season with sea salt and serve hot."
+    },
+    {
+        "id": 17,
+        "chef_id": 6,
+        "rating": 4.9,
+        "name": "Meat Fruit",
+        "ingredients": [
+            "150g chicken liver parfait",
+            "1 mandarin orange",
+            "1 tsp grated ginger",
+            "1/2 tsp ground cinnamon",
+            "1/2 tsp ground cloves",
+            "1/2 tsp ground nutmeg",
+            "1/2 tsp ground black pepper",
+            "1/4 tsp salt",
+            "1 tbsp brandy",
+            "1 tsp gelatin powder",
+            "1 tsp water",
+            "Edible gold leaf (optional)"
+        ],
+        "instructions": "Zest the mandarin and set aside. Peel the mandarin and remove the pith, making sure to keep the segments intact. Place the chicken liver parfait in a mixing bowl and add the grated ginger, cinnamon, cloves, nutmeg, black pepper, salt, brandy, and mandarin zest. Mix well. Place the gelatin powder in a small bowl and add 1 tsp of water. Mix until the gelatin is dissolved. Add the dissolved gelatin to the chicken liver mixture and mix well. Line a small bowl with plastic wrap and place the mandarin segments inside, covering the entire bottom and sides of the bowl. Fill the bowl with the chicken liver mixture and cover the top with more plastic wrap. Refrigerate for at least 1 hour or until set. Remove the plastic wrap from the top and invert the bowl onto a serving plate. Remove the plastic wrap from the bowl and carefully peel it off the meat fruit. Garnish with edible gold leaf if desired and serve with toast or bread."
+    },
+    {
+        "id": 18,
+        "chef_id": 6,
+        "name": "Shepherd's Pie",
+        "ingredients": [
+            "2 lbs. ground beef",
+            "1 onion, chopped",
+            "1 cup frozen mixed vegetables",
+            "1 can (14 oz.) diced tomatoes, undrained",
+            "1/2 cup beef broth",
+            "2 Tbsp. tomato paste",
+            "2 cloves garlic, minced",
+            "1 tsp. dried thyme leaves",
+            "Salt and pepper to taste",
+            "4 cups mashed potatoes",
+            "1 cup shredded cheddar cheese"
+        ],
+        "cooking_method": "Preheat oven to 375°F (190°C). Brown the ground beef and onion in a large skillet over medium-high heat until beef is no longer pink. Drain excess fat. Add the mixed vegetables, diced tomatoes, beef broth, tomato paste, garlic, thyme, salt, and pepper to the skillet. Stir to combine and bring to a boil. Reduce heat and simmer for 10 minutes. Spread the beef mixture evenly into a 9x13 inch baking dish. Top with the mashed potatoes and spread them evenly over the beef mixture. Sprinkle the shredded cheddar cheese over the top of the mashed potatoes. Bake for 20-25 minutes, or until the cheese is melted and the pie is heated through. Let the pie cool for a few minutes before serving.",
+        "rating": 4.5
+    }
+]
