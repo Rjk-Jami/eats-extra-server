@@ -19,8 +19,13 @@ app.get('/chefs', (req, res) => {
   app.get('/chefs/:id', (req, res) => {
     const id = parseInt(req.params.id);
     console.log(id)
+    if (id === 0) {
+      res.send(chefs)
+    }
+    else{
     const selectedChef = chefs.find(n => n.id === id);
     res.send(selectedChef);
+    }
   })
 
 //all recipes
