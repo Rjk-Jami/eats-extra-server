@@ -1,6 +1,7 @@
 [
     {
         "id": 1,
+        "trendyRecipes": false,
         "chef_id": 1,
         "name": "Chicken in Milk",
         "rating": 4.8,
@@ -17,6 +18,7 @@
     },
     {
         "id": 2,
+        "trendyRecipes": true,
         "chef_id": 1,
         "name": "Pesto Pasta",
         "rating": 4.7,
@@ -33,6 +35,7 @@
     },
     {
         "id": 3,
+        "trendyRecipes": false,
         "chef_id": 1,
         "name": "30-Minute Shepherd's Pie",
         "ingredients": [
@@ -53,6 +56,7 @@
     },
     {
         "id": 4,
+        "trendyRecipes": false,
         "chef_id": 2,
         "rating": 4.8,
         "name": "Chocolate Fudge Cake",
@@ -74,6 +78,7 @@
     },
     {
         "id": 5,
+        "trendyRecipes": false,
         "chef_id": 2,
         "name": "Lemon Drizzle Cake",
         "rating": 4.8,
@@ -90,6 +95,7 @@
     },
     {
         "id": 6,
+        "trendyRecipes": false,
         "chef_id": 2,
         "name": "Spaghetti Carbonara",
         "rating": 4.7,
@@ -104,18 +110,30 @@
     },
     {
         "id": 7,
+        "trendyRecipes": false,
         "chef_id": 4,
-        "rating": 4.8,
-        "name": "Triple-Cooked Chips",
+        "rating": 4.5,
+        "name": "Slow-Cooked Beef Brisket",
         "ingredients": [
-            "4 large potatoes (Maris Piper or King Edward)",
-            "1.5 liters vegetable oil",
-            "Sea salt"
+            "1 (5-6 lb) beef brisket",
+            "1 tbsp. smoked paprika",
+            "1 tbsp. garlic powder",
+            "1 tbsp. onion powder",
+            "1 tbsp. brown sugar",
+            "1 tsp. cumin",
+            "1 tsp. salt",
+            "1/2 tsp. black pepper",
+            "2 tbsp. olive oil",
+            "1 large onion, sliced",
+            "4 cloves garlic, minced",
+            "1 cup beef broth",
+            "1/2 cup barbecue sauce"
         ],
-        "cooking_method": "Peel the potatoes and cut them into chips (1cm x 1cm x 5cm).Rinse the chips under cold water to remove excess starch and dry them with a clean towel.Preheat the vegetable oil to 130°C in a deep-fat fryer or a large, heavy-bottomed saucepan.Fry the chips in the preheated oil for about 6-8 minutes, until they are cooked but not colored. Remove them from the oil with a slotted spoon and let them cool on a wire rack.Increase the temperature of the oil to 180°C.Fry the chips again for 2-3 minutes, until they are golden brown and crispy. Remove them from the oil with a slotted spoon and let them cool on a wire rack.Increase the temperature of the oil to 190°C.Fry the chips a final time for 1-2 minutes, until they are deep golden and crispy. Remove them from the oil with a slotted spoon and let them cool on a wire rack.Season with sea salt and serve hot."
+        "cooking_method": "In a small bowl, mix together smoked paprika, garlic powder, onion powder, brown sugar, cumin, salt, and black pepper. Rub the spice mixture all over the brisket. Heat olive oil in a large skillet over high heat. Sear the brisket on all sides until browned, about 2-3 minutes per side. Transfer the brisket to a slow cooker. Add sliced onion and minced garlic to the same skillet and cook until softened, about 3-5 minutes. Pour beef broth and barbecue sauce over the onions and garlic, stir to combine. Pour the mixture over the brisket in the slow cooker. Cover and cook on low for 8-10 hours, or until the brisket is tender and easily pulls apart with a fork. Remove the brisket from the slow cooker and let it rest for 10 minutes. Slice against the grain and serve with the sauce from the slow cooker."
     },
     {
         "id": 8,
+        "trendyRecipes": false,
         "chef_id": 4,
         "rating": 4.9,
         "name": "Meat Fruit",
@@ -137,6 +155,7 @@
     },
     {
         "id": 9,
+        "trendyRecipes": false,
         "chef_id": 4,
         "name": "Shepherd's Pie",
         "ingredients": [
@@ -157,6 +176,7 @@
     },
     {
         "id": 10,
+        "trendyRecipes": false,
         "chef_id": 3,
         "name": "Chicken in Milk",
         "rating": 4.8,
@@ -173,6 +193,7 @@
     },
     {
         "id": 11,
+        "trendyRecipes": false,
         "chef_id": 3,
         "name": "Pesto Pasta",
         "rating": 4.7,
@@ -195,6 +216,7 @@
     },
     {
         "id": 12,
+        "trendyRecipes": false,
         "chef_id": 3,
         "name": "30-Minute Shepherd's Pie",
         "ingredients": [
@@ -215,6 +237,7 @@
     },
     {
         "id": 13,
+        "trendyRecipes": true,
         "chef_id": 5,
         "rating": 4.8,
         "name": "Chocolate Fudge Cake",
@@ -236,6 +259,7 @@
     },
     {
         "id": 14,
+        "trendyRecipes": false,
         "chef_id": 5,
         "name": "Lemon Drizzle Cake",
         "rating": 4.8,
@@ -252,6 +276,7 @@
     },
     {
         "id": 15,
+        "trendyRecipes": false,
         "chef_id": 5,
         "name": "Spaghetti Carbonara",
         "rating": 4.7,
@@ -266,18 +291,30 @@
     },
     {
         "id": 16,
+        "trendyRecipes": true,
         "chef_id": 6,
-        "rating": 4.8,
-        "name": "Triple-Cooked Chips",
+        "rating": 4.5,
+        "name": "Slow-Cooked Beef Brisket",
         "ingredients": [
-            "4 large potatoes (Maris Piper or King Edward)",
-            "1.5 liters vegetable oil",
-            "Sea salt"
+            "1 (5-6 lb) beef brisket",
+            "1 tbsp. smoked paprika",
+            "1 tbsp. garlic powder",
+            "1 tbsp. onion powder",
+            "1 tbsp. brown sugar",
+            "1 tsp. cumin",
+            "1 tsp. salt",
+            "1/2 tsp. black pepper",
+            "2 tbsp. olive oil",
+            "1 large onion, sliced",
+            "4 cloves garlic, minced",
+            "1 cup beef broth",
+            "1/2 cup barbecue sauce"
         ],
-        "cooking_method": "Peel the potatoes and cut them into chips (1cm x 1cm x 5cm). Rinse the chips under cold water to remove excess starch and dry them with a clean towel. Preheat the vegetable oil to 130°C in a deep-fat fryer or a large, heavy-bottomed saucepan. Fry the chips in the preheated oil for about 6-8 minutes, until they are cooked but not colored. Remove them from the oil with a slotted spoon and let them cool on a wire rack. Increase the temperature of the oil to 180°C. Fry the chips again for 2-3 minutes, until they are golden brown and crispy. Remove them from the oil with a slotted spoon and let them cool on a wire rack. Increase the temperature of the oil to 190°C. Fry the chips a final time for 1-2 minutes, until they are deep golden and crispy. Remove them from the oil with a slotted spoon and let them cool on a wire rack. Season with sea salt and serve hot."
+        "cooking_method": "In a small bowl, mix together smoked paprika, garlic powder, onion powder, brown sugar, cumin, salt, and black pepper. Rub the spice mixture all over the brisket. Heat olive oil in a large skillet over high heat. Sear the brisket on all sides until browned, about 2-3 minutes per side. Transfer the brisket to a slow cooker. Add sliced onion and minced garlic to the same skillet and cook until softened, about 3-5 minutes. Pour beef broth and barbecue sauce over the onions and garlic, stir to combine. Pour the mixture over the brisket in the slow cooker. Cover and cook on low for 8-10 hours, or until the brisket is tender and easily pulls apart with a fork. Remove the brisket from the slow cooker and let it rest for 10 minutes. Slice against the grain and serve with the sauce from the slow cooker."
     },
     {
         "id": 17,
+        "trendyRecipes": false,
         "chef_id": 6,
         "rating": 4.9,
         "name": "Meat Fruit",
@@ -299,6 +336,7 @@
     },
     {
         "id": 18,
+        "trendyRecipes": false,
         "chef_id": 6,
         "name": "Shepherd's Pie",
         "ingredients": [
