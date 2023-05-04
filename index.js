@@ -20,7 +20,7 @@ app.get('/chefs', (req, res) => {
     const id = parseInt(req.params.id);
     console.log(id)
     if (id === 0) {
-      res.send(chefs)
+      res.send(chefs  )
     }
     else{
     const selectedChef = chefs.find(n => n.id === id);
@@ -32,7 +32,7 @@ app.get('/chefs', (req, res) => {
 app.get('/recipes', (req, res) => {
   res.send(recipes)
 })
-
+// test on server backend
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 })
